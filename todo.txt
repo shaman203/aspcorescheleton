@@ -1,0 +1,42 @@
+1. Vue.js Asp.net MVC proj template webpack and stuff ?? lehet hogy megis jobb lenne a .net core
+2. editorconfig naming / style - EditorConfig language service
+3. owasp zap
+4. swagger api doc
+5. automoq, fluentassertions, xunit
+6 identity server, policy server
+7. stackify prefix - profiler / vs application insights
+8. vue dev tools  firefox addon
+
+Tanulsagok
+.net core a client app?
+.net standard a class library? ami portable a .net es .net core kozott
+
+
+//.net core 2 identity
+dotnet new webapi -au Individual
+https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity-custom-storage-providers
+
+//vue starter
+https://github.com/MarkPieszak/aspnetcore-Vue-starter
+
+//swagger
+Install-Package Swashbuckle.AspNetCore
+https://docs.microsoft.com/en-us/aspnet/core/tutorials/web-api-help-pages-using-swagger?tabs=visual-studio
+
+//xunit, automoq, fluentassertions
+nuget xunit.runner.visualstudio
+Microsoft.NET.Test.Sdk
+
+
+
+
+Postgre
+WebAPI2
+MVC
+Vue
+postgre + nhibernate
+
+fluentmigrations
+
+security
+moq, nunit
